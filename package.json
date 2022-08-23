@@ -1,0 +1,11 @@
+{
+  "name": "primeirorepositori",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:profantonioalves1981/primeirorepositori.git",
+  "author": "Antonio Alves <antonioaugusto.alves1981@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
